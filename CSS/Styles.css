@@ -1,0 +1,17 @@
+.body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(6,42,96,0.9304096638655462) 35%, rgba(15,166,196,0.8323704481792717) 100%);
+    border: 5px solid white;
+}
+.warna {
+    background: linear-gradient(90deg, rgba(15,166,196,0.8323704481792717) 100%);
+}
+.bg {
+    background-color: #ffff;
+    opacity: 0.5;
+    padding: 15px;
+    border-radius: 15px;
+}
+brg {
+    border: 5px solid white;
+}
